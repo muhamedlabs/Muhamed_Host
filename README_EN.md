@@ -18,8 +18,7 @@
 5. [Ordering Process](#ordering-process)
 6. [Screenshots](#screenshots)
 7. [Future Plans](#future-plans)
-8. [Installation and Setup](#installation-and-setup)
-9. [Support and Contact](#support-and-contact)
+8. [Support and Contact](#support-and-contact)
 
 ---
 
