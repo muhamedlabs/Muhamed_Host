@@ -1,12 +1,9 @@
-# Muhamed_Server
+# Muhamed_Host <a href="README.md"><img src="https://github.com/muhamedlabs/MuhamedTrash/blob/main/Flags/Russia_flag.png?raw=true" alt="RU" width="28" height="28" style="border-radius: 12px;"></a> <a href="README_UA.md"><img src="https://github.com/muhamedlabs/MuhamedTrash/blob/main/Flags/Ukraine_flag.png?raw=true" alt="UA" width="28" height="28" style="border-radius: 12px;"></a> <a href="README_EN.md"><img src="https://github.com/muhamedlabs/MuhamedTrash/blob/main/Flags/Unit_King_flag.png?raw=true" alt="UK" width="28" height="28" style="border-radius: 12px;"></a>
 
 
-# Muhamed Labs – Хостинг для ігор, ботів і сервісів
+**Muhamed_Host** — це хостинг-платформа, що працює на базі **[Pterodactyl](https://pterodactyl.io/)** з власними покращеннями від **Muhamed IT**. Ми надаємо сервери для Minecraft, Rust, Team Speak, Discord/Telegram ботів та багатьох інших застосунків. Цей репозиторій містить код лендінг-сайту, через який клієнти можуть подавати заявки на створення сервера.
 
-**Muhamed Labs** — це хостинг-платформа, що працює на базі **[Pterodactyl](https://pterodactyl.io/)** з власними покращеннями від **Muhamed IT**. Ми надаємо сервери для Minecraft, Rust, Team Speak, Discord/Telegram ботів та багатьох інших застосунків. Цей репозиторій містить код лендінг-сайту, через який клієнти можуть подавати заявки на створення сервера.
-
-[![Сайт](https://img.shields.io/badge/сайт-server.muhamedlabs.pro-blue)](https://server.muhamedlabs.pro/)
-
+<img src="https://github.com/muhamedlabs/MuhamedTrash/blob/main/Cache/Sticks.png?raw=true">
 
 ---
 
